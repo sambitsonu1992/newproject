@@ -1,7 +1,7 @@
 class ganesh{
 
 		public static void main(string[] arg){
-		system.out
+		system.out.println("this is the edited file")
 
 }
 
